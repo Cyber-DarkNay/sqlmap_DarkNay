@@ -20,6 +20,6 @@
 
 ## 📦 INSTALLATION
 ```bash
-git clone https://github.com/darkxloli/Sqlmap_Manual.git
-cd Sqlmap_Manual
+git clone https://github.com/Cyber-DarkNay/sqlmap_DarkNay.git
+cd sqlmap_DarkNay
 python3 Sqlmap_Manual.py
