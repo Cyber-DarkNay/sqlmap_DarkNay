@@ -1,4 +1,10 @@
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300">
+</p>
 ## ⚡ DARKNAY AUTO SQLMAP TOOL
+
 
 ![Screenshot](Screenshot_2026-04-12-11-31-07-19_84d3000e3f4017145260f7618db1d683.jpg)
 
