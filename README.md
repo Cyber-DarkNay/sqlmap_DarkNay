@@ -1,8 +1,12 @@
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+DarkNay;Bug+Bounty+Hunter;Python&center=true&color=00FF00">
+</p>
+
 ## ⚡ DARKNAY AUTO SQLMAP TOOL
 
 
